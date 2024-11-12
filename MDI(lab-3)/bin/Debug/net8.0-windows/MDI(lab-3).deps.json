@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MDI(lab-3)/1.0.0": {
+        "runtime": {
+          "MDI(lab-3).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MDI(lab-3)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

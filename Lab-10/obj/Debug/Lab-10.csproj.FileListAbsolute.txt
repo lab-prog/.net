@@ -1,0 +1,11 @@
+C:\Users\paruc\Programming\DotNET\Lab-10\bin\Debug\Lab-10.exe.config
+C:\Users\paruc\Programming\DotNET\Lab-10\bin\Debug\Lab-10.exe
+C:\Users\paruc\Programming\DotNET\Lab-10\bin\Debug\Lab-10.pdb
+C:\Users\paruc\Programming\DotNET\Lab-10\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\paruc\Programming\DotNET\Lab-10\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\paruc\Programming\DotNET\Lab-10\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\paruc\Programming\DotNET\Lab-10\obj\Debug\Lab-10.csproj.AssemblyReference.cache
+C:\Users\paruc\Programming\DotNET\Lab-10\obj\Debug\Lab-10.csproj.CoreCompileInputs.cache
+C:\Users\paruc\Programming\DotNET\Lab-10\obj\Debug\Lab-10.csproj.Up2Date
+C:\Users\paruc\Programming\DotNET\Lab-10\obj\Debug\Lab-10.exe
+C:\Users\paruc\Programming\DotNET\Lab-10\obj\Debug\Lab-10.pdb
