@@ -53,6 +53,8 @@ namespace Lab_9
                     Console.WriteLine($"  - {student.Name}");
                 }
             }
+            Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey();
         }
     }
 }
